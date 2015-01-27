@@ -1,1 +1,1 @@
-lter PHP-Bot der in einem Java-Chatsystem das Spiel "Glücksrad" anbieten konnte.
+Alter PHP-Bot der in einem Java-Chatsystem das Spiel "Glücksrad" anbieten konnte.
